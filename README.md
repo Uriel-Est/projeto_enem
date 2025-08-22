@@ -151,6 +151,8 @@ Digite a UF que deseja analisar (ex: PB, SP, RJ): SP
 
 ## 🔄 Próximas Melhorias
 
+- [ ] Dividir apropriadamente o script em raw, bronze, silver e gold
+- [ ] Filtar os dados a nível municipal != estadual 
 - [ ] Adicionar mais visualizações gráficas
 - [ ] Implementar modelos preditivos de desempenho
 - [ ] Adicionar análise longitudinal (variação temporal)
